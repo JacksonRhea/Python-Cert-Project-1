@@ -1,1 +1,1 @@
-Switch to Master branch to vie project 1
+Switch to Master branch to view project 1
